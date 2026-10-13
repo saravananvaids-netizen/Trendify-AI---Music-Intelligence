@@ -1,0 +1,6 @@
+{
+  "name": "Trendify AI – Trending Music Analyzer 2026",
+  "description": "Discover Trends. Analyze Music. Predict Tomorrow. AI-powered music analytics with YouTube integration, engagement KPIs, scikit-learn trend predictions, and artist comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
